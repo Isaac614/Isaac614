@@ -7,15 +7,14 @@ This repository serves as my **GitHub profile**, highlighting what I’m learnin
 ---
 
 ## 🧠 About Me
-- 🎓 College student studying technology-related subjects
-- 🐍 Experience with **Python** (core programming concepts, small projects, UI work)
-- 🌐 Background in **web design and development**
+- 🎓 College student studying software engineering
+- 🐍 Experience with **Python**, **C#**, **Web Dev**, and **Swift**
 - 📚 Focused on learning and building portfolio-worthy projects
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, HTML, CSS, C#
+- **Languages:** Python, JavaScript, HTML, CSS, C#, Swift
 - **Frameworks / Libraries:** React, TmodLoader, SwiftUI
 
 ---
